@@ -28,3 +28,10 @@
 *{
 	font-family: 'Museo Sans', sans-serif;
 }
+@import 'base/variables';
+@import 'blocks/promo';
+
+.container{
+	max-width: 950px;
+	margin: 0 auto;
+}
