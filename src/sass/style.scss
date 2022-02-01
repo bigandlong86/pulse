@@ -30,8 +30,15 @@
 }
 @import 'base/variables';
 @import 'blocks/promo';
-
+@import 'blocks/header';
+@import 'blocks/buttons';
+@import 'blocks/benefits';
+@import 'blocks/title';
+@import 'blocks/media';
+@import 'blocks/consultation';
+@import 'blocks/forms';
 .container{
-	max-width: 950px;
+	max-width: 980px;
 	margin: 0 auto;
+	padding: 0 15px 0 15px;
 }
