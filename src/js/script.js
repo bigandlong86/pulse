@@ -8,10 +8,13 @@ $(document).ready(function () {
 			{
 				breakpoint: 992,
 				settings: {
-					dots: true,
-					arrows: false
+					arrows: false,
+					slidesToShow: 1,
+					slidesToScroll: 1,
+					infinite: true,
+					dots: true
 				}
-			}
+			},
 		]
 	});
 

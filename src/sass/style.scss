@@ -34,7 +34,6 @@
 @import 'blocks/buttons';
 @import 'blocks/benefits';
 @import 'blocks/title';
-@import 'blocks/media';
 @import 'blocks/consultation';
 @import 'blocks/forms';
 @import 'blocks/carousel';
@@ -42,6 +41,8 @@
 @import 'blocks/reviews';
 @import 'blocks/footer';
 @import 'blocks/modal';
+
+@import 'blocks/media';
 
 .container{
 	max-width: 980px;
